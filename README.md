@@ -1,2 +1,2 @@
-# Java Pattern Codes
-This is where I store all my Java codes related to patterns :)
+# Java Pattern Programs
+This is where I store all my Java programs related to patterns :)
